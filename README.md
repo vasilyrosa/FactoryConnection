@@ -1,0 +1,4 @@
+FactoryConnection
+=================
+
+Padrão Factory
